@@ -1,7 +1,4 @@
 User-agent: *
-Allow: /
-
-User-agent: *
 disallow: /tags/
 disallow: /category/
 
