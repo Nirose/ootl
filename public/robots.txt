@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog-template-gray.vercel.app/sitemap-index.xml
+User-agent: *
+disallow: /tags/
+disallow: /category/
+
+Sitemap: https://ootl.in/rss.xml
